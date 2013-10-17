@@ -10,7 +10,6 @@ void swap(int* i, int* j) {
 
 int main() {
     int m , n;
-    double x = 5.3, y = 10.6;
 
     scanf("%d %d", &m, &n);
 
